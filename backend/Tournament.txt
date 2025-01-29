@@ -1,0 +1,18 @@
+Tournament created succesfully{
+  tournament_name: 'Inter IIIT',
+  organiser_name: 'Inter IIIT',
+  Sports: 'vollyball',
+  entry_fees: 0,
+  email: 'Try1@gmail.com',
+  contact: 9807654321,
+  start_date: '2025-06-24',
+  state: 'Madhya Pradesh',
+  city: 'Bhopal',
+  pincode: 462002,
+  upiQr: '',
+  upinumber: 9807654321,
+  participents: [],
+  rules: [ 'Basic Standard Rules' ],
+  _id: new ObjectId("67994bcf84ccd3efc2e189f2"),
+  __v: 0
+}
